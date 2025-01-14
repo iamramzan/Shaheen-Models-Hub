@@ -20,13 +20,14 @@ cd Shaheen-Models-Hub
 3. Load the model in your project using the provided code snippets.
 
 ## Example (Using PyTorch Model):
+```
 import torch  
 from model import MyModel  
 
 model = MyModel()  
 model.load_state_dict(torch.load("model_weights.pth"))  
 model.eval()  
-
+```
 ## 📢 Contribute to the Shaheen Models Hub
 Contributions to the Shaheen Models Hub are encouraged! You can:
 - Submit new models with proper documentation.
