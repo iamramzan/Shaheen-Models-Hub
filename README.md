@@ -1,7 +1,7 @@
 ## Shaheen-Models-Hub 🚀
 Welcome to the Shaheen Models Hub, a centralized repository for hosting, sharing, and collaborating on machine learning and AI models. This hub aims to provide high-quality, pre-trained models that can be easily integrated into various projects and applications.
 
-## Repository Overview
+## 🌟 Repository Overview
 The Shaheen Models Hub is designed to support the AI and machine learning community by offering models for diverse tasks, including NLP, computer vision, time series analysis, and more. Each model comes with detailed documentation, usage examples, and pretrained weights (where applicable).
 
 ## Key Features
